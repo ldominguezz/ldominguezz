@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQ5YTdwYXcyODZvbXN1djNkYXB3dnZkNXBmczU2bWVjcG1hdHUyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+  <img height="150" src="LauraChat.jpg"  />
 </div>
 
 ###
